@@ -1,0 +1,23 @@
+html,
+body,
+.container{
+    background-color: blue;
+}
+#my{
+    color: white;
+}
+#log{
+    color: white;
+    margin-left: 1000px;
+}
+#teg{
+    background-color: white;
+}
+#get{
+    color: black;
+    font-size: 40px;
+}
+#beno{
+    width: 25%;
+    height: 20px;
+}

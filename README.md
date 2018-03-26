@@ -1,8 +1,13 @@
 # palbina
-used buttons from bootstrap-inserted in the navbar and also ontop of the navbar,there were two buttons for signup.
-it has also a couresell
-it contains some icons in the footer
-used some links to animate
-used some font
+A site for booking visa,flight,hotels and any tour services.
+# technology used
+javascript
+css
+html5
+# fonts
+google fonts
+# images
+https://unsplash.com
+
 
 

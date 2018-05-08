@@ -3,5 +3,5 @@ document.write("hallo " + x);
 var y=prompt("Enter your digits");
 parseInt(y);
 document.write( y + " this is your code ");
-var z=prompt(" whats your favourite color");
+var z=prompt(" which is your ");
 Document.write( z + " is a color for silly people ");

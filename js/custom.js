@@ -4,4 +4,4 @@ var y=prompt("Enter your digits");
 parseInt(y);
 document.write( y + " this is your code ");
 var z=prompt(" which is your favourite country");
-Document.write( z + " is an amazing ");
+Document.write( z + " is an amazing country,having awesome  ");
